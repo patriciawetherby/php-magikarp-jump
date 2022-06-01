@@ -1,4 +1,4 @@
-# majikarp_jump
+# Majikarp_Jump
 A beginner php and javascript program
 
 Program allows user to submit several different kinds of magikarp and their jump height to a database.
